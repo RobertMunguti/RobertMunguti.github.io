@@ -1,0 +1,7 @@
+body{
+	background-image: url("resources/images/box.jpg");
+	background-size: cover;
+	background-position: fill;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}

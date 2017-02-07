@@ -1,0 +1,35 @@
+body{
+	background-image: url("resources/images/grass.jpg");
+	background-size: cover;
+	background-position: fill;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1{
+	font-family: times;
+	color: white;
+	font-size: xx-large;
+	text-decoration: double underline;
+}
+
+h3{
+	font-family: Arial black;
+	color: red;
+	font-size: x-large;
+}
+
+.closer{
+	font-family: 
+}
+
+h4{
+	color: white;
+	font-size: xx-large;
+
+}
+p{
+	color: white;
+	font-size: xx-large;
+	font-family: times;
+}
