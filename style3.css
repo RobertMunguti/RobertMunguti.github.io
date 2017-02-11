@@ -5,3 +5,8 @@ body{
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+
+.sign{
+	font-size: xx-large;
+	color: white;
+}
